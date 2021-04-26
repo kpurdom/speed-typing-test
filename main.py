@@ -12,7 +12,6 @@ NO_WORDS = 200      # Max 1000
 timer = None
 test_list = []
 test_output = ""
-breaker = False
 
 
 # ----------------------------START GAME ----------------------------------------- #
